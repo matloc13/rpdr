@@ -1,0 +1,22 @@
+.title-fam {
+    font-family: Montserrat;
+    padding: theme('spacing.4');
+}
+.section {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-content: center;
+}
+
+.label {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.input {
+    position: absolute;
+    top: 34px;
+    left: 0px;
+    padding: theme('spacing.4');
+}
